@@ -6,9 +6,9 @@
 
 # Table of Contents
 
--   [Link 1](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-1)
--   [Link 2](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-2)
--   [Link 3](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-3)
+- [Link 1](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-1)
+- [Link 2](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-2)
+- [Link 3](https://github.com/rixiobarrios/ctd-movie-recommendations#Link-3)
 
 # Link 1
 
@@ -64,7 +64,4 @@ function myCodeHere() {
 
 # Feedback
 
-
-
-
-
+Test from Xeniya
